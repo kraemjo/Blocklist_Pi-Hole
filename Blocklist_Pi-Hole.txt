@@ -3,7 +3,8 @@
 # Facebook
 fbsbx.com
 fbcdn.net
-facebook.com
+(\.|^)zipzapmac\.com$
+(\.|^)facebook\.com$
 cdninstagram.com
 instagram.com
 instabug.com
