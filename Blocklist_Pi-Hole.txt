@@ -5,6 +5,7 @@ fbsbx.com
 fbcdn.net
 (\.|^)zipzapmac\.com$
 (\.|^)facebook\.com$
+(\.|^)fbcdn\.net$
 cdninstagram.com
 instagram.com
 instabug.com
