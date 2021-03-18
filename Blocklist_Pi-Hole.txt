@@ -1,18 +1,4 @@
 # Test Block von Teenager Lieblingsseiten
 
 # Facebook
-fbsbx.com
-fbcdn.net
-(\.|^)zipzapmac\.com$
-(\.|^)facebook\.com$
-(\.|^)fbcdn\.net$
-cdninstagram.com
-instagram.com
-instabug.com
-facebook.net
-fbsbx.com
-whatsapp.com
-whatsapp.net
-m.me
-messenger.com
-cdninstagram.com
+^(.+[_.-])?(facebook|fb(cdn|sbx)?|tfbnw)\.[^.]+$
