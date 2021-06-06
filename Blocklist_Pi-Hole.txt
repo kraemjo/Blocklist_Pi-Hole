@@ -1,4 +1,3 @@
-# Test Block von Teenager Lieblingsseiten
+# Test Block with PI Hole
 
-# Facebook
-^(.+[_.-])?(facebook|fb(cdn|sbx)?|tfbnw)\.[^.]+$
+bonprix.de
