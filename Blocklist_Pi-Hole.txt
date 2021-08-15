@@ -1,5 +1,5 @@
 # Test Block with PI Hole
 
-0.0.0.0 bonprix.de
-0.0.0.0 tchibo.de
-0.0.0.0 otto.de
+bonprix.de
+tchibo.de
+otto.de
