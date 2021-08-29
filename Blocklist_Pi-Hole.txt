@@ -102,7 +102,7 @@ witt-weiden.de
 tchibo.de
 tchibo.com
 c-and-a.com
-c-and-a-de
+c-and-a.de
 mirapodo.de
 mirapodo.com
 schuhtempel24.de
@@ -176,7 +176,7 @@ andotherbrands.com
 weekday.com
 styleserver.de
 thegoodwillout.com
-kickz.com/de
+kickz.com
 stylebop.com
 net-a-porter.com
 shopbop.com
